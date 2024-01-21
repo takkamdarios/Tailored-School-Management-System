@@ -1,16 +1,10 @@
-# Laravel 8 - Quiz Application
-
-## Screenshots
-
-![preview img](/preview.png)
-![preview img](/preview2.png)
-
+# Laravel 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/abdulaziz-m5u/laravel-quiz-app.git project-name
+  git clone https://github.com/takkamdarios/Tailored-School-Management-System.git
 ```
 
 Go to the project directory
