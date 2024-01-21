@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="database">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/database/seeders.zip!/" />
+      <root url="jar://$PROJECT_DIR$/database/migrations.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

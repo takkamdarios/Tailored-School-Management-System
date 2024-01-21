@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Http">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/Http/Requests.zip!/" />
+      <root url="jar://$PROJECT_DIR$/app/Http/Controllers.zip!/" />
+      <root url="jar://$PROJECT_DIR$/app/Http/Middleware.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
